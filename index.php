@@ -19,8 +19,17 @@ $mahasiswa = query("SELECT * FROM mahasiswa");
     
 </head>
 
-    <link rel="stylesheet" href="style.css"/>
-<body background=" IT.jpg">
+    <link rel="stylesheet" href="style.css"/>aSbb
+    <style>
+        body{
+            background-image: url("C.jpg");
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: 100%;
+        }
+
+    </style>
+<body>
 
 <div align="right">
     <br>

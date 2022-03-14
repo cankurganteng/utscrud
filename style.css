@@ -14,7 +14,7 @@ table{
   /* Mengatur border dan jarak/ruang pada kolom */
   table th,
   table td {
-    vertical-align:center;
+    vertical-align:left;
     padding:10px 20px;
     border:1px solid #0202020c;
   }
